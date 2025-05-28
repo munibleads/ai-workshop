@@ -1,0 +1,39 @@
+Design a [Type, e.g., web/mobile/desktop] [App Category, e.g., productivity/travel/social] application named “[App Name]” with a [Design Aesthetic, e.g., modern, minimal, vibrant] UI/UX inspired by top-tier apps like [Inspiration Apps, e.g., Notion, Airbnb, Todoist]. Create a [Layout Description, e.g., clean, card-based, grid] layout with [Key Visual Elements, e.g., smooth cards, bold imagery, intuitive icons]. Prioritize aesthetics with [Aesthetic Features, e.g., rounded corners, vibrant visuals, polished animations]. Ensure the app is [Platform Requirements, e.g., responsive for web, iOS/Android compatible] and appeals to [Target Audience, e.g., productivity enthusiasts, travelers].
+
+UI Goals:
+•	[Goal 1, e.g., Combine minimalism with usability for a premium experience]
+•	[Goal 2, e.g., Intuitive navigation with a clean navbar or sidebar]
+•	[Goal 3, e.g., High-contrast CTAs for clear user actions]
+•	[Goal 4, e.g., Consistent spacing and padding for polished look]
+•	[Goal 5, e.g., Smooth animations for transitions and interactions]
+
+Visual Style:
+•	Color Palette:
+o	Background: [Primary Background Color, e.g., #FFFFFF or light gray gradient]
+o	CTA Color: [Primary CTA Color, e.g., #28A745 or vibrant blue]
+o	Accent Colors: [Accent Colors, e.g., #FF6F61 (coral), #4A90E2 (blue)]
+o	Shadows: [Shadow Style, e.g., rgba(0,0,0,0.06) for subtle depth]
+•	Visual Components:
+o	[Component 1, e.g., Cards with hover effects and subtle shadows]
+o	[Component 2, e.g., Hero section with full-width image or gradient]
+o	[Component 3, e.g., Inline icons for categories or statuses]
+o	[Component 4, e.g., Rounded input fields or search bars]
+
+App Screens (one-liners):
+1.	Dashboard/Home – [Description, e.g., Overview with key features and filters]
+2.	[Screen Name, e.g., Details Screen] – [Description, e.g., Detailed view with relevant info]
+3.	[Screen Name, e.g., Analytics Tab] – [Description, e.g., Visual data representation]
+4.	[Screen Name, e.g., Input Screen] – [Description, e.g., Form for user input]
+
+Microinteractions / Animations:
+•	[Interaction 1, e.g., Cards fade in with slight slide on load]
+•	[Interaction 2, e.g., Buttons pulse on click with 0.2s scale]
+•	[Interaction 3, e.g., Progress indicators animate smoothly]
+
+Functional Requirements:
+•	[Requirement 1, e.g., Allow users to create/edit/delete core entities]
+•	[Requirement 2, e.g., Track user progress with visual indicators]
+•	[Requirement 3, e.g., Provide filtering or search functionality]
+•	[Requirement 4, e.g., Include data visualization for insights]
+•	[Requirement 5, e.g., Support light/dark mode or accessibility features]
+•	[Platform-Specific Requirement, e.g., Ensure responsive design for web]
