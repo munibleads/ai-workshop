@@ -1,0 +1,16 @@
+Design a mobile fitness tracker application named “FitTrack” with a modern, vibrant UI/UX inspired by top-tier apps like Strava and Fitbit. Create a clean, card-based layout with smooth cards, bold imagery, and intuitive icons. Prioritize aesthetics with rounded corners, vibrant visuals, and polished animations. Ensure the app is iOS/Android compatible using Expo and appeals to fitness enthusiasts and casual users. This will be an MVP, so develop accordingly.
+
+UI Goals: • Combine vibrant visuals with usability for an engaging experience • Intuitive navigation with a bottom tab bar for quick access • High-contrast CTAs for clear user actions • Consistent spacing and padding for a polished look • Smooth animations for transitions and interactions
+
+Visual Style: • Color Palette: • Background: #F5F7FA (light gray for clean backdrop) • CTA Color: #FF5733 (vibrant orange for energy) • Accent Colors: #4A90E2 (blue), #FFD700 (gold) • Shadows: rgba(0,0,0,0.1) for subtle depth • Visual Components: • Cards with subtle shadows and tap effects • Hero section with gradient background and motivational imagery • Inline icons for workout types and stats • Rounded buttons and input fields for user inputs
+
+App Screens (one-liners):
+
+Dashboard/Home – Overview of daily activity, steps, and workout summary
+Workout Screen – Start/track workouts with real-time metrics
+Progress Tab – Visual charts for weekly/monthly fitness progress
+Profile Screen – User settings and fitness goal customization
+
+Microinteractions / Animations: • Cards fade in with slight upward slide on screen load • Buttons pulse on tap with 0.2s scale effect • Progress bars animate smoothly during data updates
+
+Functional Requirements: • Allow users to log workouts and set fitness goals • Track steps, calories, and workout duration with visual indicators • Provide filtering for workout history by type or date • Include data visualization for progress trends • Support light/dark mode for accessibility • Ensure compatibility with Expo for iOS/Android deployment
