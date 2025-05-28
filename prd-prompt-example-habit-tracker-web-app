@@ -1,0 +1,39 @@
+Design a web productivity application named “HabitFlow” with a modern, minimal UI/UX inspired by top-tier apps like Todoist and Notion. Create a clean, card-based layout with smooth cards, intuitive icons, and subtle gradients. Prioritize aesthetics with rounded corners, polished animations, and consistent typography. Ensure the app is responsive for web, compatible with all modern browsers, and appeals to productivity enthusiasts and casual users looking to build better habits.
+
+UI Goals:
+• Combine minimalism with usability for a premium, distraction-free experience.
+• Intuitive navigation with a fixed sidebar for quick access to key screens.
+• High-contrast CTAs for clear habit logging and creation actions.
+• Consistent spacing and padding for a polished, uncluttered look.
+• Smooth animations for transitions and interactions to enhance engagement.
+
+Visual Style:
+• Color Palette:
+  - Background: #F8FAFC (light gray-blue for clean backdrop)
+  - CTA Color: #10B981 (emerald green for vibrant, actionable buttons)
+  - Accent Colors: #6366F1 (indigo), #FBBF24 (amber)
+  - Shadows: rgba(0, 0, 0, 0.06) for subtle depth on cards and buttons
+• Visual Components:
+  - Cards with hover effects and subtle shadows for habit listings.
+  - Hero section with a gradient header (indigo to light gray) on the dashboard.
+  - Inline icons for habit categories (e.g., fitness, productivity) and statuses.
+  - Rounded input fields and buttons for a soft, approachable feel.
+
+App Screens (one-liners):
+1. Dashboard/Home – Overview of today’s habits with quick checkboxes, streak counters, and a motivational quote.
+2. Habit Creation/Edit Screen – Form to add/edit habits with fields for name, frequency, goals, and reminders.
+3. Progress/Stats Screen – Visual charts and calendars showing habit completion history and streaks.
+4. Settings/Profile Screen – User profile and app preferences like theme, notifications, and data export.
+
+Microinteractions / Animations:
+• Cards fade in with a slight upward slide on page load (0.3s).
+• Buttons scale slightly (0.2s) and change shade on click for feedback.
+• Progress bars and streak counters animate smoothly when updated.
+
+Functional Requirements:
+• Allow users to create, edit, and delete habits with customizable details (name, frequency, category).
+• Track habit completion with visual indicators like checkmarks and streak counters.
+• Provide filtering by date or category on the Progress screen.
+• Include data visualization (charts, calendars) for habit progress insights.
+• Support light/dark mode and accessibility features like screen reader compatibility.
+• Ensure responsive design for web, optimized for desktop and mobile browsers.
