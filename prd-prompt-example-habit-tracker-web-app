@@ -1,39 +1,48 @@
-Design a web productivity application named “HabitFlow” with a modern, minimal UI/UX inspired by top-tier apps like Todoist and Notion. Create a clean, card-based layout with smooth cards, intuitive icons, and subtle gradients. Prioritize aesthetics with rounded corners, polished animations, and consistent typography. Ensure the app is responsive for web, compatible with all modern browsers, and appeals to productivity enthusiasts and casual users looking to build better habits.
+Design a web-based habit tracking application called “HabitFlow” with a sleek, modern, and premium UI/UX inspired by top-tier productivity apps like Notion, Todoist, and Streaks. Create a clean, minimal, and intuitive layout with smooth cards, vibrant visuals, and polished animations. Prioritize aesthetics with rounded corners, elegant typography, and consistent spacing for a high-end feel that appeals to productivity enthusiasts. Ensure the app is responsive for desktop and mobile browsers.
 
 UI Goals:
-• Combine minimalism with usability for a premium, distraction-free experience.
-• Intuitive navigation with a fixed sidebar for quick access to key screens.
-• High-contrast CTAs for clear habit logging and creation actions.
-• Consistent spacing and padding for a polished, uncluttered look.
-• Smooth animations for transitions and interactions to enhance engagement.
 
+Combine minimalism with usability for a premium, distraction-free experience
+Clean, card-based layout for habits with subtle shadows and rounded corners
+Intuitive navigation with a fixed sidebar or top navbar, and subtle highlights for active states
+High-contrast CTAs (e.g., vibrant green “Add Habit” button)
+Consistent padding/margins (e.g., 16px–24px) and polished spacing
+Smooth animations for adding habits, completing tasks, or navigating sections
 Visual Style:
-• Color Palette:
-  - Background: #F8FAFC (light gray-blue for clean backdrop)
-  - CTA Color: #10B981 (emerald green for vibrant, actionable buttons)
-  - Accent Colors: #6366F1 (indigo), #FBBF24 (amber)
-  - Shadows: rgba(0, 0, 0, 0.06) for subtle depth on cards and buttons
-• Visual Components:
-  - Cards with hover effects and subtle shadows for habit listings.
-  - Hero section with a gradient header (indigo to light gray) on the dashboard.
-  - Inline icons for habit categories (e.g., fitness, productivity) and statuses.
-  - Rounded input fields and buttons for a soft, approachable feel.
 
+Color Palette:
+Background: Clean white (#FFFFFF) or light gray (#F8F9FB) with soft gradients (#E8ECEF to #F2F4F7)
+CTA Green: #28A745 or #00C897 for habit completion/addition
+Accent Colors: #FF6F61 (coral), #4A90E2 (blue), and subtle shadows in rgba(0,0,0,0.06)
+Typography:
+Headers: Inter Bold, SF Pro Display, or Poppins SemiBold, 24px–32px
+Body: Inter or Manrope, 14px–16px with 1.5x line-height for readability
+Labels: White or dark text (#1A1A1A) with gradient overlays behind habit cards for contrast
+Visual Components:
+Habit Cards with hover effects (soft glow, slight scale-up)
+Hero section with a motivational full-width image or gradient background
+Inline icons for habit categories (e.g., fitness, reading, meditation) and streaks
+Rounded search/filter bar, progress circles, and a clean sidebar or top navbar
 App Screens (one-liners):
-1. Dashboard/Home – Overview of today’s habits with quick checkboxes, streak counters, and a motivational quote.
-2. Habit Creation/Edit Screen – Form to add/edit habits with fields for name, frequency, goals, and reminders.
-3. Progress/Stats Screen – Visual charts and calendars showing habit completion history and streaks.
-4. Settings/Profile Screen – User profile and app preferences like theme, notifications, and data export.
 
+Onboarding Screen – Full-width motivational background (e.g., sunrise or workspace), with a CTA card saying “Start Building Better Habits”.
+Dashboard/Home – Overview with habit cards, progress rings, streak counters, and a filter bar for categories (e.g., Daily, Weekly).
+Habit Details – Detailed view of a habit with progress history, notes section, and motivational stats (e.g., streak length, completion rate).
+Analytics Tab – Visual charts (e.g., line or bar) showing habit completion trends and weekly/monthly summaries.
+Add/Edit Habit Screen – Form with category picker, frequency selector (daily/weekly), and motivational quote display.
+Profile/Settings – Card-based user profile with habit history, preferences, and theme toggle (light/dark mode).
 Microinteractions / Animations:
-• Cards fade in with a slight upward slide on page load (0.3s).
-• Buttons scale slightly (0.2s) and change shade on click for feedback.
-• Progress bars and streak counters animate smoothly when updated.
 
+Habit cards fade in with a slight upward slide on page load
+Completion buttons pulse softly (0.2s scale animation) when clicked
+Progress rings animate smoothly as habits are marked complete
+Sidebar or navbar items highlight with a subtle color transition
+Page transitions use a smooth fade or slide effect for a polished feel
 Functional Requirements:
-• Allow users to create, edit, and delete habits with customizable details (name, frequency, category).
-• Track habit completion with visual indicators like checkmarks and streak counters.
-• Provide filtering by date or category on the Progress screen.
-• Include data visualization (charts, calendars) for habit progress insights.
-• Support light/dark mode and accessibility features like screen reader compatibility.
-• Ensure responsive design for web, optimized for desktop and mobile browsers.
+
+Allow users to create, edit, and delete habits with customizable frequencies (daily, weekly, or custom)
+Track habit completion with progress rings or checkmarks, and display streaks
+Provide a filterable dashboard to view habits by category or status
+Include an analytics section with simple charts for tracking progress over time
+Ensure responsive design for seamless use on desktop and mobile browsers
+Support light/dark mode toggle for accessibility and user preference
