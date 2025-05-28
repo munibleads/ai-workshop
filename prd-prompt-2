@@ -1,0 +1,6 @@
+You’re an expert in the technical development of the application. 
+Using the following prompt template, please write a prompt for the idea 
+{Enter Your Idea}, 
+This prompt will be fed to Bolt.new to develop the app. Thanks!
+Below is the prompt template:
+{Enter Prompt Template Here}
