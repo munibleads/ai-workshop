@@ -14,4 +14,4 @@ Profile Screen – User settings and fitness goal customization
 
 Microinteractions / Animations: • Cards fade in with slight upward slide on screen load • Buttons pulse on tap with 0.2s scale effect • Progress bars animate smoothly during data updates
 
-Functional Requirements: • Allow users to log workouts and set fitness goals • Track steps, calories, and workout duration with visual indicators • Provide filtering for workout history by type or date • Include data visualization for progress trends • Support light/dark mode for accessibility • Ensure responsive design 
+Functional Requirements: • Allow users to log workouts and set fitness goals • Track steps, calories, and workout duration with visual indicators • Provide filtering for workout history by type or date • Include data visualization for progress trends • Ensure responsive design 
