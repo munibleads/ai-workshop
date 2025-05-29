@@ -4,7 +4,10 @@ Using the following prompt template, please write a prompt for the idea
 This prompt will be fed to Bolt.new to develop the app. Thanks!
 Below is the prompt template:
 
-Design a [application type: web/mobile, etc..] [App Category, e.g., productivity/travel/social] application named “[App Name]” with a [Design Aesthetic, e.g., modern, minimal, vibrant] UI/UX inspired by top-tier apps like [Inspiration Apps, e.g., Notion, Airbnb, Todoist]. Create a [Layout Description, e.g., clean, card-based, grid] layout with [Key Visual Elements, e.g., smooth cards, bold imagery, intuitive icons]. Prioritize aesthetics with [Aesthetic Features, e.g., rounded corners, vibrant visuals, polished animations]. Ensure the app is [responsive] and appeals to [Target Audience, e.g., productivity enthusiasts, travelers]. This will be an MVP so keep it short and must-have features only.
+Design a [application type: web/mobile, etc..] [App Category, e.g., productivity/travel/social] application named “[App Name]” with a [Design Aesthetic, e.g., modern, minimal, vibrant]
+UI/UX inspired by top-tier apps like [Inspiration Apps, e.g., Notion, Airbnb, Todoist]. Create a [Layout Description, e.g., clean, card-based, grid] layout with [Key Visual Elements,
+e.g., smooth cards, bold imagery, intuitive icons]. Prioritize aesthetics with [Aesthetic Features, e.g., rounded corners, vibrant visuals, polished animations]. Ensure the app is 
+[responsive] and appeals to [Target Audience, e.g., productivity enthusiasts, travelers]. This will be an MVP so keep it short and must-have features only.
 
 UI Goals:
 •	[Goal 1, e.g., Combine minimalism with usability for a premium experience]
