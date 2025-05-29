@@ -24,6 +24,7 @@ App Screens (one-liners):
 2.	[Screen Name, e.g., Details Screen] – [Description, e.g., Detailed view with relevant info]
 3.	[Screen Name, e.g., Analytics Tab] – [Description, e.g., Visual data representation]
 4.	[Screen Name, e.g., Input Screen] – [Description, e.g., Form for user input]
+5.  The navigation bar should be at the top, not the side.
 
 Microinteractions / Animations:
 •	[Interaction 1, e.g., Cards fade in with slight slide on load]
