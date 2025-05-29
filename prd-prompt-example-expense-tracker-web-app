@@ -1,0 +1,39 @@
+Design a web productivity application named “ExpenseEasy” with a modern, minimal UI/UX inspired by top-tier apps like Notion and Mint. Create a clean, card-based layout with smooth cards, intuitive icons, and subtle gradients. Prioritize aesthetics with rounded corners, polished animations, and a clutter-free design. Ensure the app is responsive and appeals to budget-conscious individuals and casual users. This will be an MVP, focusing on must-have features only.
+
+UI Goals:
+• Combine minimalism with usability for a seamless and premium experience.
+• Intuitive navigation with a clean top navbar for easy access.
+• High-contrast CTAs for clear user actions and quick interactions.
+• Consistent spacing and padding for a polished, professional look.
+• Smooth animations for transitions and interactions to enhance user engagement.
+
+Visual Style:
+• Color Palette:
+  - Background: #F9FAFB (light gray for clean backdrop)
+  - CTA Color: #10B981 (emerald green for vibrant actions)
+  - Accent Colors: #3B82F6 (blue), #F59E0B (amber)
+  - Shadows: rgba(0,0,0,0.05) for subtle depth
+• Visual Components:
+  - Cards with hover effects and subtle shadows for expense entries
+  - Header section with a soft gradient background
+  - Inline icons for expense categories (e.g., food, travel)
+  - Rounded input fields for adding expenses
+
+App Screens (one-liners):
+1. Dashboard/Home – Overview of recent expenses, total spending, and category filters
+2. Add Expense – Simple form to input expense details (amount, category, date)
+3. Expense List – List view of all expenses with sort and filter options
+4. Summary – Basic chart showing spending by category
+5. The navigation bar should be at the top, not the side.
+
+Microinteractions / Animations:
+• Cards fade in with a slight slide on page load for a dynamic feel.
+• Buttons scale slightly (0.2s) on click for tactile feedback.
+• Chart bars animate smoothly when loading the summary screen.
+
+Functional Requirements:
+• Allow users to create, edit, and delete expense entries.
+• Track total spending with a simple summary by category.
+• Provide filtering by date or category for expense lists.
+• Include a basic bar chart for spending visualization.
+• Ensure responsive design for desktop and mobile.
